@@ -1,4 +1,4 @@
-# Cit281-p6 
+# CIT281 Project-6
 
 Purpose of this project:
 - Gain experience creating and working classes with inheritance
@@ -115,3 +115,6 @@ for (const sides of data) {
 ```
 ### Expected Output
 ![P6 SC](https://user-images.githubusercontent.com/84296093/120622940-1e334a80-c414-11eb-8c04-79ce900a59cb.JPG)
+
+
+[SourceCode](https://ruichen11.github.io/Ruichen11.CIT-Minor/)
